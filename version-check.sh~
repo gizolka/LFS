@@ -54,3 +54,4 @@ if [ -x dummy ]
 rm -f dummy.c dummy
 EOF
 
+bash version-check.sh
