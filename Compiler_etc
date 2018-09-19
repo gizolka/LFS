@@ -1,0 +1,23 @@
+Ein Compiler (auch Kompiler; von englisch für zusammentragen bzw. lateinisch compilare ‚aufhäufen‘) ist ein Computerprogramm, das Quellcodes einer bestimmten Programmiersprache in eine Form übersetzt, die von einem Computer (direkter) ausgeführt werden kann.
+
+Teils wird zwischen den Begriffen Übersetzer und Compiler unterschieden. Ein Übersetzer übersetzt ein Programm aus einer formalen Quellsprache in ein semantisches Äquivalent in einer formalen Zielsprache. Compiler sind spezielle Übersetzer, die Programmcode aus problemorientierten Programmiersprachen, sogenannten Hochsprachen, in ausführbaren Maschinencode einer bestimmten Architektur oder einen Zwischencode (Bytecode, p-Code oder .NET-Code) überführen. Diese Trennung zwischen den Begriffen Übersetzer und Compiler wird nicht in allen Fällen vorgenommen. 
+
+Eine Assemblersprache, kurz auch Assembler genannt (von englisch to assemble, deutsch ‚montieren‘), ist eine Programmiersprache, die auf den Befehlsvorrat eines bestimmten Computertyps (d. h. dessen Prozessorarchitektur) ausgerichtet ist.
+
+Assemblersprachen bezeichnet man deshalb als maschinenorientierte Programmiersprachen und – als Nachfolger der direkten Programmierung mit Zahlencodes – als Programmiersprachen der zweiten Generation: Anstelle eines Binärcodes der Maschinensprache können Befehle und deren Operanden durch leichter verständliche mnemonische Symbole in Textform (z. B. „MOVE“), Operanden z. T. als symbolische Adresse (z. B. „PLZ“), notiert und dargestellt werden.[1]
+
+Der Quelltext eines Assemblerprogramms wird mit Hilfe einer Übersetzungssoftware (Assembler oder Assemblierer) in Maschinencode übersetzt. Dagegen übersetzt in höheren Programmiersprachen (Hochsprachen, dritte Generation) ein sogenannter Compiler abstraktere (komplexere, nicht auf den Prozessor-Befehlssatz begrenzte) Befehle in den Maschinencode der gegebenen Zielarchitektur – oder in eine Zwischensprache.[2]
+
+Umgangssprachlich werden die Ausdrücke „Maschinensprache“ und „Assembler(sprache)“ häufig synonym verwendet. 
+
+Unter einem Linker oder Binder (auch: „Bindelader“) versteht man ein Computerprogramm, das einzelne Programmmodule zu einem ausführbaren Programm zusammenstellt (verbindet). Auf IBM-Großrechnersystemen wird der Linker linkage editor (englisch) genannt.[1]
+
+Die meisten Programme enthalten Bestandteile oder Module, die in anderen Programmen Verwendung finden können. Mehrere kompilierte Module mit Funktionen (so genannte Objektdateien) können zu Funktionsbibliotheken (Programmbibliotheken) zusammengefasst werden. Der Code wird durch den Linker zum Hauptprogramm hinzugefügt, falls die entsprechende Funktion benötigt wird.
+
+Um ein Programmmodul in einem anderen Programm verwenden zu können, müssen die symbolischen Adressen der Funktionen und Variablen des Moduls in Speicheradressen umgewandelt werden. Diese Aufgabe übernimmt der Linker. Der Linkvorgang erfolgt nach der Kompilierung und ist meistens der letzte Arbeitsschritt zur Erstellung eines Programms. Man unterscheidet generell zwischen statischem und dynamischem Linken. 
+
+Eine Programmbibliothek (kurz Bibliothek; englisch library, kurz lib) bezeichnet in der Programmierung eine Sammlung von Unterprogrammen/-Routinen, die Lösungswege für thematisch zusammengehörende Problemstellungen anbieten. Bibliotheken sind im Unterschied zu Programmen keine eigenständig lauffähigen Einheiten, sondern sie enthalten Hilfsmodule, die von Programmen angefordert werden.
+
+In erweitertem Sinn gelten als Programmbibliotheken (zum Teil auch „Komponentenbibliothek“ oder „Klassenbibliothek“ genannt) alle Arten von Bibliotheken, die Programmcode(-bestandteile) bereitstellen/enthalten. Insofern unterscheidet man Programmbibliotheken u. a. nach dem Typ des Programmcodes, z. B. Quelltexte, Makros, Object- oder Bytecode, Maschinencode usw. Dementsprechend werden Bibliotheken zu unterschiedlichen Zeitpunkten benutzt, manche nur im Rahmen der Softwareentwicklung (von Werkzeugen der Entwicklungsumgebung), andere nur zur Ausführung von Programmen, wieder andere als Mischform von beiden. Solche Bibliotheken enthalten häufig nicht nur Unterprogramme, sondern Programmcodeteile aller Programm-Typen.
+
+Eine besondere Form von Programmbibliotheken sind Frameworks. 
