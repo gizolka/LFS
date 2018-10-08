@@ -24,3 +24,54 @@ tar (GNU tar) 1.29
 texi2any (GNU texinfo) 6.1
 xz (XZ Utils) 5.2.2
 g++ compilation OK
+bash, version 4.4.12(1)-release
+/bin/sh -> /bin/bash
+Binutils: (GNU Binutils for Debian) 2.28
+bison (GNU Bison) 3.0.4
+/usr/bin/yacc -> /usr/bin/bison.yacc
+bzip2,  Version 1.0.6, 6-Sept-2010.
+Coreutils:  8.26
+diff (GNU diffutils) 3.5
+find (GNU findutils) 4.7.0-git
+GNU Awk 4.1.4, API: 1.1 (GNU MPFR 3.1.5, GNU MP 6.1.2)
+/usr/bin/awk -> /usr/bin/gawk
+gcc (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
+g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
+(Debian GLIBC 2.24-11+deb9u3) 2.24
+grep (GNU grep) 2.27
+gzip 1.6
+Linux version 4.9.0-6-amd64 (debian-kernel@lists.debian.org) (gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) ) #1 SMP Debian 4.9.88-1+deb9u1 (2018-05-07)
+m4 (GNU M4) 1.4.18
+GNU Make 4.1
+GNU patch 2.7.5
+Perl version='5.24.1';
+sed (GNU sed) 4.4
+tar (GNU tar) 1.29
+xz (XZ Utils) 5.2.2
+g++ compilation OK
+bash, version 4.4.12(1)-release
+/bin/sh -> /bin/bash
+Binutils: (GNU Binutils for Debian) 2.28
+bison (GNU Bison) 3.0.4
+/usr/bin/yacc -> /usr/bin/bison.yacc
+bzip2,  Version 1.0.6, 6-Sept-2010.
+Coreutils:  8.26
+diff (GNU diffutils) 3.5
+find (GNU findutils) 4.7.0-git
+GNU Awk 4.1.4, API: 1.1 (GNU MPFR 3.1.5, GNU MP 6.1.2)
+/usr/bin/awk -> /usr/bin/gawk
+gcc (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
+g++ (Debian 6.3.0-18+deb9u1) 6.3.0 20170516
+(Debian GLIBC 2.24-11+deb9u3) 2.24
+grep (GNU grep) 2.27
+gzip 1.6
+Linux version 4.9.0-6-amd64 (debian-kernel@lists.debian.org) (gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) ) #1 SMP Debian 4.9.88-1+deb9u1 (2018-05-07)
+m4 (GNU M4) 1.4.18
+GNU Make 4.1
+GNU patch 2.7.5
+Perl version='5.24.1';
+sed (GNU sed) 4.4
+tar (GNU tar) 1.29
+texi2any (GNU texinfo) 6.3
+xz (XZ Utils) 5.2.2
+g++ compilation OK
